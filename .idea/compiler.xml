@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="quickstartProject" />
         <module name="java_ui_jan22" />
+        <module name="auto-test-esson3" />
       </profile>
     </annotationProcessing>
   </component>
